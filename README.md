@@ -1,6 +1,6 @@
 # SimpleBlogTestApp
 
-All executable are located in "Files" directory
+All executables are located in "Files" directory
 
 The server side project can be opened as Gradle or Eclipse project.
 
