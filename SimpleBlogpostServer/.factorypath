@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factorypath>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.objectbox\objectbox-processor\2.2.0\afbf3113a92cef449443afbc96b366aeef1ceba2\objectbox-processor-2.2.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.objectbox\objectbox-code-modifier\2.2.0\bd48ce05fe26648d22151b7a458a3c4a3ee70a98\objectbox-code-modifier-2.2.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.objectbox\objectbox-generator\2.2.0\9398691b283debb8abc8b867b6c3753982ada6f1\objectbox-generator-2.2.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-reflect\1.2.71\7512db3b3182753bd2e48ce8d345abbadc40fe6b\kotlin-reflect-1.2.71.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.71\d9717625bb3c731561251f8dd2c67a1011d6764c\kotlin-stdlib-1.2.71.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.objectbox\objectbox-java\2.2.0\55ac067226b60a33d6ef4d3726d6dd423f4e9fb9\objectbox-java-2.2.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.objectbox\objectbox-java-api\2.2.0\1cd30a27d9e467f1ae4ac0263a2bf7cf04c9b17f\objectbox-java-api-2.2.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.greenrobot\essentials\3.0.0-RC1\dfc6cd070e196e63df53c90abd2c3e1e02ee40e9\essentials-3.0.0-RC1.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\com.squareup.moshi\moshi\1.4.0\d67ad038adfd55dc276488a54f4944dfae5ff8ec\moshi-1.4.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.freemarker\freemarker\2.3.26-incubating\713237e013f725b72f4f9ec931a49c14b1805359\freemarker-2.3.26-incubating.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.2.71\ba18ca1aa0e40eb6f1865b324af2f4cbb691c1ec\kotlin-stdlib-common-1.2.71.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\com.google.flatbuffers\flatbuffers-java\1.9.0\460bc8f6411768659c1ffb529592e251a808b9f2\flatbuffers-java-1.9.0.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar" enabled="true" runInBatchMode="false"/>
+	<factorypathentry kind="EXTJAR" id="C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

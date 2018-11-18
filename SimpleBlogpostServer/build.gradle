@@ -1,0 +1,51 @@
+buildscript {
+	ext.objectboxVersion = '2.2.0'
+    repositories {
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+
+    dependencies {
+        classpath "io.objectbox:objectbox-gradle-plugin:$objectboxVersion"
+        classpath "net.ltgt.gradle:gradle-apt-plugin:0.19"
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: 'eclipse'
+apply plugin: 'net.ltgt.apt-idea'
+apply plugin: 'net.ltgt.apt-eclipse'
+apply plugin: 'io.objectbox'
+
+targetCompatibility = '1.8'
+sourceCompatibility = '1.8'
+
+//mainClassName = "com.github.devjn.simpleblogserver.Server"
+
+// In this section you declare where to find the dependencies of your project
+repositories {
+    jcenter()
+}
+
+dependencies {
+	implementation 'org.nanohttpd:nanohttpd:2.3.1'
+	implementation 'com.google.code.gson:gson:2.8.5'
+	
+	implementation "io.objectbox:objectbox-java:$objectboxVersion"
+    annotationProcessor "io.objectbox:objectbox-processor:$objectboxVersion"
+
+    // include all native libraries for distribution
+    implementation "io.objectbox:objectbox-linux:$objectboxVersion"
+    implementation "io.objectbox:objectbox-macos:$objectboxVersion"
+    implementation "io.objectbox:objectbox-windows:$objectboxVersion"
+}
+
+jar {
+  manifest {
+    attributes(
+      'Class-Path': configurations.compile { it.getName() }.join(' '),
+      'Main-Class': 'com.github.devjn.simpleblogserver.Server'
+    )
+  }
+}
+

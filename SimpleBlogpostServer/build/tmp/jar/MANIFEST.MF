@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\io.ob
+ jectbox\objectbox-java\2.2.0\55ac067226b60a33d6ef4d3726d6dd423f4e9fb9
+ \objectbox-java-2.2.0.jar C:\Users\Jahongir\.gradle\caches\modules-2\
+ files-2.1\io.objectbox\objectbox-windows\2.2.0\3620b14e8012112342b8c9
+ 69c4047ddc34e81fb5\objectbox-windows-2.2.0.jar C:\Users\Jahongir\.gra
+ dle\caches\modules-2\files-2.1\io.objectbox\objectbox-java-api\2.2.0\
+ 1cd30a27d9e467f1ae4ac0263a2bf7cf04c9b17f\objectbox-java-api-2.2.0.jar
+  C:\Users\Jahongir\.gradle\caches\modules-2\files-2.1\org.greenrobot\
+ essentials\3.0.0-RC1\dfc6cd070e196e63df53c90abd2c3e1e02ee40e9\essenti
+ als-3.0.0-RC1.jar C:\Users\Jahongir\.gradle\caches\modules-2\files-2.
+ 1\com.google.flatbuffers\flatbuffers-java\1.9.0\460bc8f6411768659c1ff
+ b529592e251a808b9f2\flatbuffers-java-1.9.0.jar C:\Users\Jahongir\.gra
+ dle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\
+ 25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar
+Main-Class: com.github.devjn.simpleblogserver.Server
+
